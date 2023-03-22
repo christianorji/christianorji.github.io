@@ -1,0 +1,10 @@
+name: "Christian Orji"
+navbar:
+  title: "Welcome to Christian's Webpage"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: Aboutme.html
+    - text: "Beer Case Study"
+      href: casestudy1.html
