@@ -1,0 +1,20 @@
+---
+title: "Christian's Webpage"
+author: "Christian Orji"
+date: "3/21/2023"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About Me
+
+My name is Steven Cox and I'd like to briefly introduce myself.  I am a Navy veteran with five children from ages 4 - 21 and have an amazing supportive wife, I have developed a strong sense of discipline and dedication to my family, career, and education. Currently, I work as a software engineer at Raytheon and hold a Bachelor's degree in Computer Science. I am also in the process of obtaining my Master's degree in Data Science. 
+In 2005 i starting working as an Avionics technician at General Atomics Aeronautical Systems and then in 2009 I moved to the DFW area to work as an Engineer with Raytheon.  I took a short 5 year break from Engineering to pursue teaching High School in Rice, Texas.  Though I absolutely loved teaching High School Science and Math, it has been far too difficult in supporting my family with such a low income.  So I have returned Raytheon as a software engineer and extremely excited being back in innovative industry. 
+
+In my free time, I enjoy riding and training horses and have competed in two Extreme Mustang Makeovers in Fort Worth.  I also love supporting my children in their extracurricular activities, and cherishing quality time with my family.
+
+## Linkedin
+
+Please connect with me at [LinkedIn](http://www.linkedin.com/in/steven-cox-714ba7240). 
